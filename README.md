@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a current second year Data Science student at the University of Virginia!
+
 <!--
 **alkalink1/alkalink1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
